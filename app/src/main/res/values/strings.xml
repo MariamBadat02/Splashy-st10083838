@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Splashy</string>
+    <string name ="Hello_world">Hello World</string>
+    <string name ="Ciao_Mondo">Ciao,Mondo!</string>
+    <string name ="Bonjour_le_monde">Bonjour, le monde!</string>
+    <string name ="Olá_mundo">Olá, mundo!</string>
+    <string name ="Привет_мир">Привет, мир!</string>
+
+</resources>
